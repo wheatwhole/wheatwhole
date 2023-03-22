@@ -1,11 +1,15 @@
-<h1>wheatwhole</h1>
-<li>Amazing minecraft builder yes</li>
-<li>Lonely beef rice and ketchup eater [no one understands :(]</li>
-<li>codes in HTML and Lua</li>
-<li>Roblox builder for hire @MisterWu#6096</li>
-<li>Too lazy to learn js and plays roblox in free time</li>
-
-<!---
-wheatwhole/wheatwhole is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# ✦ wheatwhole ✦
+## some cool fact about me
+* master minecraft builder
+* i am but not the best html lua and javasript coder.
+* Most godly scratch programmer
+* Roblox builder for hire @lordwaffles#6096
+* too lazy to actually learn to code so i just experiment with coding and play games after
+* works on random stuff
+* christian
+## what am I working on?
+* the first actual smart AI in scratch that uses nested lists, keyword finding, personality, sentience and a whole lot of crazy stuff. 
+* some minigame style game on roblox except they are team style games where you need to share an island with a team
+* building stuff
+* something that can generate roasts as if you are packgod
+* trying to be the most dangerous man of the bronze sea (you know if you know)
